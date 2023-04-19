@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "todos" ALTER COLUMN "progress" SET DATA TYPE VARCHAR(255);
